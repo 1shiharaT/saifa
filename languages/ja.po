@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: epigone1.0\n"
+"POT-Creation-Date: 2014-09-22 13:21+0900\n"
+"PO-Revision-Date: 2014-09-22 13:22+0900\n"
+"Last-Translator: ishihara <ishihara@grow-group.jp>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x;_ex;_nx\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "おっと、お探しのページは見つかりませんでした。"
+
+#: ../404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "何も見つかりませんでした。以下のリンク、または検索してみてください。"
+
+#: ../404.php:26
+msgid "Most Used Categories"
+msgstr "最も使用しているカテゴリー"
+
+#: ../404.php:42
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブで探してみてください。 %1$s"
+
+#: ../archive.php:23
+#, php-format
+msgid "Author: %s"
+msgstr "著者: %s"
+
+#: ../archive.php:26
+#, php-format
+msgid "Day: %s"
+msgstr "日付: %s"
+
+#: ../archive.php:29
+#, php-format
+msgid "Month: %s"
+msgstr "月別アーカイブ: %s"
+
+#: ../archive.php:29
+msgid "F Y"
+msgstr "Y F"
+
+#: ../archive.php:32
+#, php-format
+msgid "Year: %s"
+msgstr "年別アーカイブ : %s"
+
+#: ../archive.php:32
+msgid "Y"
+msgstr "Y"
+
+#: ../archive.php:35
+msgid "Asides"
+msgstr "アサイド"
+
+#: ../archive.php:38
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: ../archive.php:41
+msgid "Images"
+msgstr "画像"
+
+#: ../archive.php:44
+msgid "Videos"
+msgstr "動画"
+
+#: ../archive.php:47
+msgid "Quotes"
+msgstr "引用"
+
+#: ../archive.php:50
+msgid "Links"
+msgstr "リンク"
+
+#: ../archive.php:53
+msgid "Statuses"
+msgstr "ステータス"
+
+#: ../archive.php:56
+msgid "Audios"
+msgstr "オーディオ"
+
+#: ../archive.php:59
+msgid "Chats"
+msgstr "チャット"
+
+#: ../archive.php:62 ../modules/sidebar.php:20
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s の検索結果"
+
+#: ../classes/class-breadcrumbs.php:84
+msgid "Home"
+msgstr "ホーム"
+
+#: ../classes/class-breadcrumbs.php:86
+#, php-format
+msgid "Search Result for <em>%s</em>"
+msgstr "%s の 検索結果"
+
+#: ../classes/class-breadcrumbs.php:87
+#, php-format
+msgid "%s Search results for <em>%s</em>"
+msgstr "%s : %s の検索結果"
+
+#: ../classes/class-breadcrumbs.php:89
+#, php-format
+msgid "page %d"
+msgstr "ページ %d"
+
+#: ../classes/class-breadcrumbs.php:90
+msgid "Error: Page not found"
+msgstr "エラー : ページが見つかりませんでした。"
+
+#: ../classes/class-post-type.php:81 ../classes/class-post-type.php:82
+#: ../classes/class-post-type.php:93 ../classes/class-post-type.php:164
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: ../classes/class-post-type.php:83 ../classes/class-post-type.php:84
+#, php-format
+msgid "Add New %s"
+msgstr "%sを新しく追加"
+
+#: ../classes/class-post-type.php:85
+#, php-format
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#: ../classes/class-post-type.php:86
+#, php-format
+msgid "New %s"
+msgstr "新しい %s"
+
+#: ../classes/class-post-type.php:87 ../classes/class-post-type.php:157
+#, php-format
+msgid "All %s"
+msgstr "すべての%s"
+
+#: ../classes/class-post-type.php:88
+#, php-format
+msgid "View %s"
+msgstr "%sを見る"
+
+#: ../classes/class-post-type.php:89
+#, php-format
+msgid "Search %s"
+msgstr "%sを検索"
+
+#: ../classes/class-post-type.php:90
+#, php-format
+msgid "No %s found"
+msgstr "%sが見つかりませんでした。"
+
+#: ../classes/class-post-type.php:91
+#, php-format
+msgid "No %s found in Trash"
+msgstr "%sがゴミ箱の中に見つかりませんでした。"
+
+#: ../classes/class-post-type.php:156
+msgid "Search "
+msgstr "検索"
+
+#: ../classes/class-post-type.php:158
+#, php-format
+msgid "Parent %s"
+msgstr "親 %s"
+
+#: ../classes/class-post-type.php:159
+#, php-format
+msgid "Parent: %s"
+msgstr "親 : %s"
+
+#: ../classes/class-post-type.php:160
+#, php-format
+msgid "Edit: %s"
+msgstr "編集: %s"
+
+#: ../classes/class-post-type.php:161
+#, php-format
+msgid "Update %s"
+msgstr "%sを更新"
+
+#: ../classes/class-post-type.php:162
+#, php-format
+msgid "Add new %s"
+msgstr "新しい%sを追加"
+
+#: ../classes/class-post-type.php:163
+#, php-format
+msgid "New %s Name"
+msgstr "新しい %s の名称"
+
+#: ../classes/class-walker-comment.php:22
+msgid "Comments"
+msgstr "コメント"
+
+#: ../classes/class-walker-comment.php:71
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: ../classes/class-walker-nav.php:201
+msgid "Add a menu"
+msgstr "メニューに追加"
+
+#: ../inc/comment.php:39
+msgid "Post a new comment"
+msgstr "新しいコメントを投稿"
+
+#: ../inc/comment.php:40
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "あなたのメールアドレスは公開されません。"
+
+#: ../inc/comment.php:60
+msgid "Your Name (required)"
+msgstr "あなたのお名前 ( 必須 )"
+
+#: ../inc/comment.php:61
+msgid "Email Address (required)"
+msgstr "メールアドレス ( 必須 )"
+
+#: ../inc/comment.php:62
+msgid "Website (url)"
+msgstr "Webサイト (url)"
+
+#: ../inc/comment.php:78
+msgid "Comment"
+msgstr "コメント"
+
+#: ../inc/extras.php:65
+#, php-format
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: ../inc/setup.php:53
+msgid "Header Primary Navigation"
+msgstr "ヘッダープライマリーナビゲーション"
+
+#: ../inc/setup.php:209
+msgid "General"
+msgstr "基本的な設定"
+
+#: ../inc/setup.php:210
+msgid "Please have a set of general setting."
+msgstr "基本的な設定をしてください。"
+
+#: ../inc/setup.php:213
+msgid "Google Analytics - Tracking code"
+msgstr "Google アナリティクス - トラッキングコード"
+
+#: ../inc/setup.php:216
+msgid "Tracking Code"
+msgstr "トラッキングコード"
+
+#: ../inc/setup.php:224 ../inc/setup.php:227
+msgid "Meta Description"
+msgstr "メタ説明文"
+
+#: ../inc/setup.php:235 ../inc/setup.php:238
+msgid "Meta Keyword"
+msgstr "メタキーワード"
+
+#: ../inc/setup.php:246 ../inc/setup.php:250
+msgid "Favicon"
+msgstr "ファビコン"
+
+#: ../inc/setup.php:247
+msgid "16  16 px .ico file or .png"
+msgstr "16×16px のファビコン用の画像ファイルをアップロードしてください。"
+
+#: ../inc/setup.php:263
+msgid "Header"
+msgstr "ヘッダー"
+
+#: ../inc/setup.php:264
+msgid "Please have a set of headers."
+msgstr "ヘッダーの設定をしてください。"
+
+#: ../inc/setup.php:267 ../inc/setup.php:270
+msgid "Header Style"
+msgstr "ヘッダースタイル"
+
+#: ../inc/setup.php:275
+msgid "Normal"
+msgstr "ノーマル"
+
+#: ../inc/setup.php:276
+msgid "Minimal"
+msgstr "ミニマル"
+
+#: ../inc/setup.php:282
+msgid "Logo"
+msgstr "ロゴ"
+
+#: ../inc/setup.php:285
+msgid "Font Size"
+msgstr "文字の大きさ"
+
+#: ../inc/setup.php:308
+msgid "Color"
+msgstr "配色"
+
+#: ../inc/setup.php:320 ../inc/setup.php:721
+msgid "Background"
+msgstr "背景"
+
+#: ../inc/setup.php:323 ../inc/setup.php:505 ../inc/setup.php:724
+msgid "Background Image"
+msgstr "背景画像"
+
+#: ../inc/setup.php:332 ../inc/setup.php:514 ../inc/setup.php:733
+msgid "Background Attachment"
+msgstr "背景画像の固定"
+
+#: ../inc/setup.php:337 ../inc/setup.php:519 ../inc/setup.php:738
+msgid "Fixed"
+msgstr "固定"
+
+#: ../inc/setup.php:338 ../inc/setup.php:739
+msgid "Scroll"
+msgstr "スクロール"
+
+#: ../inc/setup.php:345 ../inc/setup.php:496 ../inc/setup.php:746
+msgid "Background Color"
+msgstr "背景色"
+
+#: ../inc/setup.php:357
+msgid "Navigation Color "
+msgstr "ナビゲーションの配色"
+
+#: ../inc/setup.php:358 ../inc/setup.php:432
+msgid "Setting for Theme color."
+msgstr "テーマカラーの設定"
+
+#: ../inc/setup.php:361
+msgid "Normal Background"
+msgstr "通常の背景"
+
+#: ../inc/setup.php:371
+msgid "Hover Background"
+msgstr "ホバー時の背景"
+
+#: ../inc/setup.php:381
+msgid "Active Background"
+msgstr "アクティブ時の背景"
+
+#: ../inc/setup.php:390
+msgid "Navigation Font Size"
+msgstr "ナビゲーションの配色"
+
+#: ../inc/setup.php:427 ../inc/setup.php:435
+msgid "Theme Color"
+msgstr "テーマカラー"
+
+#: ../inc/setup.php:431
+msgid "Theme Color "
+msgstr "テーマカラー"
+
+#: ../inc/setup.php:451
+msgid "Button Color "
+msgstr "ボタンの配色"
+
+#: ../inc/setup.php:452
+msgid "Setting for button color."
+msgstr "ボタンカラーの設定"
+
+#: ../inc/setup.php:455
+msgid "Button Color"
+msgstr "ボタンカラー"
+
+#: ../inc/setup.php:489
+msgid "Body Settings"
+msgstr "コンテンツ"
+
+#: ../inc/setup.php:490
+msgid "Please have a set of body."
+msgstr "サイトボディ内の設定をしてください。"
+
+#: ../inc/setup.php:493
+msgid "Body "
+msgstr "ボディ内"
+
+#: ../inc/setup.php:520
+msgid "Initial"
+msgstr "スクロール"
+
+#: ../inc/setup.php:527
+msgid "Background Size"
+msgstr "背景サイズ"
+
+#: ../inc/setup.php:532
+msgid "Horizontal : auto Vertical : auto"
+msgstr "横 : auto 縦 : auto"
+
+#: ../inc/setup.php:533
+msgid "Horizontal : 100%, Vertical : auto"
+msgstr "横 : 100%, 縦 : auto"
+
+#: ../inc/setup.php:534
+msgid "Horizontal : auto, Vertical : 100%"
+msgstr "横 : auto, 縦 : 100%"
+
+#: ../inc/setup.php:535
+msgid "Horizontal : 100%, Vertical : 100%"
+msgstr "横 : 100%, 縦 : 100%"
+
+#: ../inc/setup.php:544
+msgid "Headings"
+msgstr "見出し"
+
+#: ../inc/setup.php:547
+msgid "Heading Color"
+msgstr "見出しカラー"
+
+#: ../inc/setup.php:556
+msgid "H1 Font Size"
+msgstr "H1 : フォントサイズ"
+
+#: ../inc/setup.php:568
+msgid "H2 Font Size"
+msgstr "H2 : フォントサイズ"
+
+#: ../inc/setup.php:580
+msgid "H3 Font Size"
+msgstr "H3 : フォントサイズ "
+
+#: ../inc/setup.php:592
+msgid "H4 Font Size"
+msgstr "H4 : フォントサイズ"
+
+#: ../inc/setup.php:604
+msgid "H5 Font Size"
+msgstr "H5 : フォントサイズ"
+
+#: ../inc/setup.php:616
+msgid "H6 Font Size"
+msgstr "H6 : フォントサイズ"
+
+#: ../inc/setup.php:630
+msgid "Text"
+msgstr "テキスト"
+
+#: ../inc/setup.php:633
+msgid "Text Color"
+msgstr "テキストカラー"
+
+#: ../inc/setup.php:643
+msgid "Base Font Size"
+msgstr "ベース文字サイズ"
+
+#: ../inc/setup.php:677
+msgid "Social Settings"
+msgstr "ソーシャル"
+
+#: ../inc/setup.php:678
+msgid "Please have a set of social."
+msgstr "SNSの設定をしてください。"
+
+#: ../inc/setup.php:681
+msgid "Social link"
+msgstr "SNS のリンク先URL"
+
+#: ../inc/setup.php:682
+msgid "Please enter the link of social services."
+msgstr "SNS のリンク先URLを入力してください。"
+
+#: ../inc/setup.php:685
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/setup.php:691
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/setup.php:697
+msgid "Github URL"
+msgstr ""
+
+#: ../inc/setup.php:703
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/setup.php:716
+msgid "Footer"
+msgstr "フッター"
+
+#: ../inc/setup.php:717
+msgid "Please have a set of footer."
+msgstr "フッターの設定をしてください。"
+
+#: ../inc/setup.php:755
+msgid "Copyright Background Color"
+msgstr "コピーライトの背景色"
+
+#: ../inc/setup.php:768
+msgid "Scroll Top"
+msgstr "スクロールトップ"
+
+#: ../inc/setup.php:769
+msgid "Setting for Scroll top."
+msgstr "スクロールトップの設定を行って下さい。"
+
+#: ../inc/setup.php:772
+msgid "Display"
+msgstr "表示"
+
+#: ../inc/setup.php:777
+msgid "Yes"
+msgstr "はい"
+
+#: ../inc/setup.php:778
+#: ../inc/theme-customizer/fields/select/class-taxonomy-dropdown-custom-control.php:30
+msgid "None"
+msgstr "なし"
+
+#: ../inc/setup.php:782
+msgid "Page Top Background"
+msgstr "スクロールトップの背景色"
+
+#: ../inc/setup.php:794
+msgid "Copyright"
+msgstr "コピーライト"
+
+#: ../inc/setup.php:795
+msgid "Setting for Copyright."
+msgstr "コピーライト文の設定"
+
+#: ../inc/setup.php:798
+msgid "Copyright text"
+msgstr "コピーライト文"
+
+#: ../inc/setup.php:804
+msgid "Copyright Background"
+msgstr "コピーライトの背景"
+
+#: ../inc/sidebar.php:17
+msgid "Sidebar Primary"
+msgstr "サイドバー"
+
+#: ../inc/sidebar.php:26
+msgid "Header Primary Area"
+msgstr "ヘッダー"
+
+#: ../inc/sidebar.php:35
+msgid "Main Visual"
+msgstr "メインビジュアル"
+
+#: ../inc/sidebar.php:44
+msgid "Above Contents"
+msgstr "コンテンツ上部"
+
+#: ../inc/sidebar.php:53
+msgid "Footer Primary"
+msgstr "フッター"
+
+#: ../inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: ../inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 古い投稿へ"
+
+#: ../inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿へ <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: ../inc/template-tags.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: ../inc/template-tags.php:62
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:84
+msgid "Updated : "
+msgstr "更新"
+
+#: ../inc/template-tags.php:87
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">投稿日 :  %1$s</span><span class=\"byline\"> 投稿"
+"者 : %2$s</span>"
+
+#: ../inc/template-tags.php:181
+msgid "Previous"
+msgstr "前へ"
+
+#: ../inc/template-tags.php:182
+msgid "Next"
+msgstr "次へ"
+
+#: ../inc/theme-customizer/fields/image/class-multi-image-custom-control.php:123
+msgid "Upload"
+msgstr "アップロード"
+
+#: ../inc/theme-customizer/fields/image/class-multi-image-custom-control.php:126
+msgid "Remove"
+msgstr "削除"
+
+#: ../modules/comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "&ldquo;%2$s&rdquo;の上の一つの返信"
+
+#: ../modules/comments.php:36 ../modules/comments.php:56
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: ../modules/comments.php:37 ../modules/comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: ../modules/comments.php:38 ../modules/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: ../modules/comments.php:68
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: ../modules/searchform.php:13 ../modules/searchform.php:15
+msgid "Search"
+msgstr "検索"
+
+#: ../modules/searchform.php:17
+msgid "Submit"
+msgstr "送信"
+
+#: ../modules/sidebar.php:27
+msgid "Meta"
+msgstr "メタ"
+
+#: ../templates/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりませんでした。"
+
+#: ../templates/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"あなたの最初の投稿を公開する準備はできましたか？<a href=\"%1$s\">最初の投稿を"
+"書く。</a>"
+
+#: ../templates/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"申し訳ありません。キーワードと一致するコンテンツが見つかりませんでした。他の"
+"キーワードで、もう一度やり直してください。"
+
+#: ../templates/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"あなたが探しているものを見つけることができませんでした。下の検索フォームから"
+"別の単語でお探し下さい。"
+
+#: ../templates/content-page.php:23 ../templates/content-single.php:33
+#: ../templates/content.php:40 ../templates/template-one-column.php:28
+msgid "Pages:"
+msgstr "ページ : "
+
+#: ../templates/content-page.php:30 ../templates/content-single.php:75
+#: ../templates/content.php:77 ../templates/template-one-column.php:35
+msgid "Edit"
+msgstr "編集"
+
+#: ../templates/content-single.php:44 ../templates/content-single.php:47
+#: ../templates/content.php:52 ../templates/content.php:62
+msgid ", "
+msgstr ","
+
+#: ../templates/content-single.php:52
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"このエントリーは%2$sにタグ付けされています。ブックマークは<a href=\"%3$s\" "
+"rel=\"bookmark\">こちら</a>"
+
+#: ../templates/content-single.php:54
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "ブックマークは<a href=\"%3$s\" rel=\"bookmark\">こちら</a>"
+
+#: ../templates/content-single.php:60
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+"このエントリーは%1$sによって投稿され、%2$sにタグ付けされています。ブックマー"
+"クは<a href=\"%3$s\" rel=\"bookmark\">こちら</a>"
+
+#: ../templates/content-single.php:62
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"この投稿は %1$sに投稿されました。ブックマークは <a href=\"%3$s\" rel="
+"\"bookmark\">こちら</a>から。"
+
+#: ../templates/content.php:35
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../templates/content.php:56
+#, php-format
+msgid "Posted in %1$s"
+msgstr "%1$s への投稿"
+
+#: ../templates/content.php:66
+#, php-format
+msgid "Tagged %1$s"
+msgstr "タグ : %1$s"
+
+#: ../templates/content.php:73
+msgid "Leave a comment"
+msgstr "コメントを残す"
+
+#: ../templates/content.php:73
+msgid "1 Comment"
+msgstr "1つのコメント"
+
+#: ../templates/content.php:73
+msgid "% Comments"
+msgstr "% コメント"
+
+#~ msgid "Heading Font Size"
+#~ msgstr "見出し文字サイズ"
+
+#~ msgid "Footer Style"
+#~ msgstr "フッタースタイル"
+
+#~ msgid "Fotter Style"
+#~ msgstr "フッタースタイル"
+
+#~ msgid "Style"
+#~ msgstr "スタイル"
+
+#~ msgid "Seach"
+#~ msgstr "検索"

@@ -1,0 +1,41 @@
+/*------------------------------------*\
+		$BUTTONS
+\*------------------------------------*/
+.btn {
+	display: inline-block;
+	@include linear-gradient(0deg, #fcfcfc 0%, #f1f1f1 49%, #efefef 50%, #f3f3f3 100%);
+	// background: $button-color;
+	color: $gray;
+	line-height: 1;
+	font-weight: bold;
+	// padding: $pad;
+	// padding: $pad;
+	border: 0;
+	text-align: center;
+
+	&:hover, &:focus {
+		background: $gray;
+		color: $white;
+	}
+
+	&.disabled {
+		background: $gray-light;
+		color: $gray;
+	}
+}
+
+.btn-small {
+	padding: $pad-half;
+}
+
+.btn-large {
+	padding: $pad-half;
+	text-transform: uppercase;
+	background: $gray;
+	font-size: 1.4rem;
+	font-weight: normal;
+}
+
+.btn-text {
+	font-style: italic;
+}

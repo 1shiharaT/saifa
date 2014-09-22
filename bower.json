@@ -1,0 +1,22 @@
+{
+  "name": "epigone",
+  "version": "0.0.1",
+  "homepage": "https://github.com/1shiharaT/epigone",
+  "authors": [
+    "1shiharaT"
+  ],
+  "license": "GPL v2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  },
+  "devDependencies": {
+    "font-awesome": "~4.2.0",
+    "responsive-nav": "~1.0.32"
+  }
+}
