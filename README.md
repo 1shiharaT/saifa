@@ -1,10 +1,6 @@
-epigone
+Saifa
 ===
-A simple WordPress boilerplate theme.
-
-
-![](https://raw.githubusercontent.com/1shiharaT/epigone/master/screenshot.png)
-
+WordPress Corporate site theme.
 
 # Featured
 
@@ -20,4 +16,4 @@ A simple WordPress boilerplate theme.
 * npm >= 1.4.3
 * Sass >= 3.2.19
 
-# 
+#
